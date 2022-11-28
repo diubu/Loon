@@ -11,44 +11,6 @@
 hostname = ad.12306.cn
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var ddgksf2013 = JSON.parse($response.body);
 if(ddgksf2013.materialsList){
 if(ddgksf2013.materialsList.length==1){
